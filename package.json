@@ -1,14 +1,35 @@
 {
-  "name": "@user/markdown",
+  "name": "@NEXIVIL/markdown",
   "version": "0.1.0",
   "private": false,
   "description": "",
   "license": "MIT",
+  "summary": "Markdown node for document creation",
+  "keywords": [
+    "markdown",
+    "markdown-it",
+    "document",
+    "word",
+    "text",
+    "txt",
+    "help",
+    "tutorial"
+  ],
   "files": [
     "build"
   ],
   "dependencies": {
-    "@design-express/node-scripts": "1.1.9"
+    "@design-express/node-scripts": "1.1.9",
+    "@liradb2000/markdown-it-katex": "^2.1.0",
+    "@liradb2000/markdown-it-mermaid": "^0.4.4",
+    "bizcharts": "^4.1.23",
+    "html-to-react": "^1.7.0",
+    "markdown-it": "^14.1.0",
+    "markdown-it-anchor": "^8.6.7",
+    "markdown-it-footnote": "^4.0.0",
+    "markdown-it-toc-done-right": "^4.2.0",
+    "react-virtualized": "^9.22.5",
+    "slugify": "^1.6.6"
   },
   "scripts": {
     "start": "node-scripts start",
