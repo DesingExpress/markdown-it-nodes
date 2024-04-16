@@ -156,11 +156,11 @@ Markdown node for document creation.
 
 ## Contributing
 
-Please visit [Github repository [ DesingExpress/three-extra-nodes ]](https://github.com/DesingExpress/three-extra-nodes)
+Please visit [Github repository [ markdown-it-nodes ]](https://github.com/DesingExpress/markdown-it-nodes)
 
 ## Sources
 
-[Github repository [ DesingExpress/three-extra-nodes ]](https://github.com/DesingExpress/three-extra-nodes)
+[Github repository [ markdown-it-nodes ]](https://github.com/DesingExpress/markdown-it-nodes)
 
 ## License
 
